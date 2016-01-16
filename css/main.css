@@ -44,7 +44,7 @@ body {
 }
 
 .album {
-  max-width: 100px;
+  max-width: 110px;
   position: absolute;
   left: 1em;
 }

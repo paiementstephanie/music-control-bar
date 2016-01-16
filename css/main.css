@@ -48,6 +48,7 @@ body {
   position: absolute;
   left: 0;
   bottom: 0;
+  display: block;
 }
 
 .time {
@@ -63,6 +64,8 @@ body {
   border: 0;
   background-color: #aaa;
   width: 100%;
+
+
 }
 
 /*

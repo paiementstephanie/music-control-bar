@@ -98,6 +98,9 @@ body {
 }
 
 .control-shuffle {
+  position: absolute;
+  top: .5em;
+  left: 4em;
 
 }
 

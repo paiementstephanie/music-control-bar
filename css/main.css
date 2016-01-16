@@ -62,6 +62,7 @@ body {
   -moz-appearance: none;
   border: 0;
   background-color: #aaa;
+  width: 100%;
 }
 
 /*

@@ -44,6 +44,8 @@ body {
 
 .album {
   max-width: 100px;
+  position: absolute;
+  left: 1em;
 }
 
 .time {

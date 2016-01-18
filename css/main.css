@@ -44,7 +44,7 @@ body {
 }
 
 .album {
-  max-width: 110px;
+  max-width: 60px;
   position: absolute;
   left: 0;
   bottom: 0;
@@ -87,8 +87,8 @@ body {
 .time-lapsed {
   font-size: .7rem;
   position: absolute;
-  top: 4em;
-  left: 10em;
+  top: 3em;
+  left: 6em;
 }
 
 .time-total {
@@ -110,7 +110,7 @@ body {
 .control-shuffle {
   position: absolute;
   top: .5em;
-  left: 4em;
+  left: 2.3em;
 
 }
 

@@ -94,8 +94,8 @@ body {
 .time-total {
   font-size: .7rem;
   position: absolute;
-  top: 4em;
-  right: 10em;
+  top: 3em;
+  right: .5em;
 }
 
 .controls {
